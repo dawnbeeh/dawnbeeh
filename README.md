@@ -13,4 +13,4 @@ Currently, I'm diving deep into object-oriented design with Java — and expandi
 
 ### 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-dawnbeeh.github.io-blue?logo=google-chrome&logoColor=white)](https://dawnbeeh.github.io/)
-[![Contact](https://img.shields.io/badge/Email-dawnbeeh23%40gmail.com-informational?logo=gmail&logoColor=white)](mailto:dawnbeeh23@gmail.com)
+[![Contact](https://img.shields.io/badge/Email-hwang.daw%40northeastern.edu-informational?logo=gmail&logoColor=white)](mailto:hwang.daw@northeastern.edu)
