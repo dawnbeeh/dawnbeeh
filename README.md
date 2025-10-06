@@ -1,16 +1,33 @@
-### Hello, I'm Dawnbee ☀️🐝
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFD700&lines=Hello%2C+I'm+Dawnbee!;Developer+in+progress+%F0%9F%92%BB;Building+ideas+into+reality+🌿)](https://git.io/typing-svg)
 
-I'm a developer-in-progress who enjoys designing systems and building them from the ground up.  
-Currently, I'm diving deep into object-oriented design with Java — and expanding into web development to bring ideas to life in the browser.
+### Hello, I'm Dawnbee ☀️🐝 
+> I'm a developer-in-progress who enjoys designing systems and building them from the ground up.  
 
-### 🛠 Tech Stack
-- Java, Python, C++, Unity, Git, IntelliJ  
-- React, NodeJS, HTML, CSS, JavaScript
+**[View Portfolio](https://dawnbeeh.github.io)**
 
-### 🧠 What I'm working on
+<p>&nbsp;</p>
+
+### Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,mysql" />
+</p>
+
+### What I'm working on
 - Building small full-stack apps to connect frontend & backend
 - Learning how design patterns apply to both desktop and web
+- Applying mathematical concepts through hands-on machine learning experiments
+- Leading a student developer club focused on building projects and organizing collaborations with industry partners.
 
-### 🌐 Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-dawnbeeh.github.io-blue?logo=google-chrome&logoColor=white)](https://dawnbeeh.github.io/)
-[![Contact](https://img.shields.io/badge/Email-hwang.daw%40northeastern.edu-informational?logo=gmail&logoColor=white)](mailto:hwang.daw@northeastern.edu)
+<p>&nbsp;</p>
+
+## Contact
+- **Email**: [hwang.daw@northeastern.edu](hwang.daw@northeastern.edu)
+- **LinkedIn**: [linkedin.com/in/dawnbee-hwang/](https://www.linkedin.com/in/dawnbee-hwang/)
+- **GitHub**: [@dawnbeeh](https://github.com/dawnbeeh)
+- **Portfolio**: [dawnbeeh.github.io](https://dawnbeeh.github.io)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=dawnbeeh&label=Profile%20views&color=9ACD32&style=flat)
