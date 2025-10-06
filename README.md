@@ -29,5 +29,5 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
+![snake gif](https://github.com/dawnbeeh/dawnbeeh/blob/output/github-contribution-grid-snake.svg)
 ![Profile Views](https://komarev.com/ghpvc/?username=dawnbeeh&label=Profile%20views&color=9ACD32&style=flat)
